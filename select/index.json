@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋でした",
+  "base_artist": "Pyxis",
+  "createdAt": "2025-12-04T14:18:16.811888Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋でした",
+      "artist": "Pyxis",
+      "has_synced": false,
+      "path": "select/pl_01_恋でした_Pyxis.txt"
+    }
+  ]
+}
